@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>https://marianqian.github.io/</link>
+    <link>https://marianqian.github.io/aim-academy-website/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://marianqian.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marianqian.github.io/aim-academy-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Hugo</title>
-      <link>https://marianqian.github.io/about/</link>
+      <link>https://marianqian.github.io/aim-academy-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://marianqian.github.io/about/</guid>
+      <guid>https://marianqian.github.io/aim-academy-website/about/</guid>
       <description>INTRODUCTION TO DEEP LEARNING COURSE The AIM Academy offers an introductory course to deep learning which includes all the basics of machine learning. (courses - link to courses page)
 JOIN OUR TEAM We are always looking for more people to increase the accessibility of deep learning and AI to the younger generation and local high schools. If you&amp;rsquo;re interested in joining our mission, visit our Join Us page. (join us - link to join us page)</description>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>https://marianqian.github.io/contact/</link>
+      <link>https://marianqian.github.io/aim-academy-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://marianqian.github.io/contact/</guid>
+      <guid>https://marianqian.github.io/aim-academy-website/contact/</guid>
       <description>We Want to Hear From You Contact us through our email or through the form for any questions you may have. Show your support for our organization, Humanitas4All, by liking us on Facebook and following us around on Instagram! aimacademyall@gmail.com
 Facebook Instagram Website</description>
     </item>
     
     <item>
       <title>Join Us</title>
-      <link>https://marianqian.github.io/join/</link>
+      <link>https://marianqian.github.io/aim-academy-website/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://marianqian.github.io/join/</guid>
+      <guid>https://marianqian.github.io/aim-academy-website/join/</guid>
       <description>Get Involved Join Our Team We are always looking for people to join our team! Whether you are interested in the logistics function or would like to contribute prior artificial intelligence knowledge, fill out the form below. Please contact us if you have any questions about roles regarding the AIM Academy. https://forms.gle/qmE1U1kneZV4bzRR9
 Volunteer Our main organization, Humanitas4All, is looking for volunteers to join their effort as well. Visit their website to learn more about other ways you can help students from low-income communities.</description>
     </item>
     
     <item>
       <title>Our Sponsors</title>
-      <link>https://marianqian.github.io/sponsors/</link>
+      <link>https://marianqian.github.io/aim-academy-website/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://marianqian.github.io/sponsors/</guid>
+      <guid>https://marianqian.github.io/aim-academy-website/sponsors/</guid>
       <description>Our Sponsors AIM Academy would not be possible without the support from our sponsors. Wesley Housing Center [insert picture]
 INTERESTED IN SPONSORING US? We appreciate the support of any kind for AIM Academy. Our sponsorship packet linked below describes different ways you can sponsor, and if you would like to sponsor us, please fill out the form below. We will get in contact with you as soon as possible. (link to sponsorship packet)</description>
     </item>
