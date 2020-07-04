@@ -1,4 +1,4 @@
-baseurl = "https://marianqian.github.io/aim-academy-website/"
+baseurl = "https://aim-academy.net"
 title = "Home"
 
 publishDir = "docs"
@@ -65,7 +65,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Resources"
     weight = 2
-    url  = "/resources/"
+    url  = "/resources"
 [[menu.main]]
     name = "About"
     weight = 1
@@ -77,8 +77,8 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Join Us"
     weight = 3
-    url = "/join/"
+    url = "/join"
 [[menu.main]]
     name = "Sponsors"
     weight = 5
-    url = "/sponsors/"
+    url = "/sponsors"

@@ -1,6 +1,6 @@
 +++
 title = "About Hugo"
-slug = "about"
+slug = "/about"
 +++
 
 

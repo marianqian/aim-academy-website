@@ -1,6 +1,6 @@
 +++
 title = "Our Sponsors"
-slug = ""
+slug = "/sponsors"
 +++
 
 # Our Sponsors

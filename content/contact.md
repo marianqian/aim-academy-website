@@ -1,6 +1,6 @@
 +++
 title = "Contact Us"
-slug = "contact"
+slug = "/contact"
 +++
 
 # We Want to Hear From You 

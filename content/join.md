@@ -1,6 +1,6 @@
 +++
 title = "Join Us"
-slug = ""
+slug = "/join"
 +++
 
 # Get Involved
