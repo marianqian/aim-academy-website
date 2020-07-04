@@ -65,20 +65,20 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Resources"
     weight = 2
-    url  = "/resources"
+    url  = "resources"
 [[menu.main]]
     name = "About"
     weight = 1
-    url = "/about/"
+    url = "about/"
 [[menu.main]]
     name = "Contact Us"
     weight = 4
-    url = "/contact/"
+    url = "contact/"
 [[menu.main]]
     name = "Join Us"
     weight = 3
-    url = "/join"
+    url = "join"
 [[menu.main]]
     name = "Sponsors"
     weight = 5
-    url = "/sponsors"
+    url = "sponsors"
