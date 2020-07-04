@@ -1,4 +1,4 @@
-baseurl = "https://marianqian.github.io/aim-academy-website/"
+baseurl = "https://marianqian.github.io/"
 title = "Home"
 
 publishDir = "docs"
