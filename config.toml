@@ -1,0 +1,84 @@
+baseurl = "https://marianqian.github.io/aim-academy-website/"
+title = "Home"
+
+publishDir = "docs"
+
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Welcome to the AIM Academy"
+    info = "The AIM (Artificial Intelligence Mastery) Academy, part of the organization Humanitas4All, provides resources to teach machine learning and computer science concepts using interactive coding exercises and lectures. (about us)"
+    description = "Artificial intelligence and machine learning resources and courses "
+    keywords = "personal"
+    avatarurl = "/images/logo.png"
+    favicon_16 = "/images/logo.png"
+    footercontent = "Humanitas4All serves to improve the education of low-income communities through tutoring sessions and summer camps. We focus on the computer science sector by collecting resources and creating materials for students to access. (learn more about Humanitas4All http://www.humanitas4all.org/)"
+    hidecredits = true
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+    colorscheme = "light"
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/humanitas4all/"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook-square fa-2x"
+    weight = 2
+    url = "https://www.facebook.com/humanitas4all"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 3
+    url = "https://www.instagram.com/humanitas4all/"
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope"
+    weight = 3
+    url = "mailto:aimacademyall@gmail.com"
+[[params.social]]
+    name = "Humanitas4All Website"
+    icon = "fas fa-link fa-2x"
+    weight = 3
+    url = "https://www.humanitas4all.org/"
+
+# Menu links
+[[menu.main]]
+    name = "Resources"
+    weight = 2
+    url  = "/resources/"
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Contact Us"
+    weight = 4
+    url = "/contact/"
+[[menu.main]]
+    name = "Join Us"
+    weight = 3
+    url = "/join/"
+[[menu.main]]
+    name = "Sponsors"
+    weight = 5
+    url = "/sponsors/"
