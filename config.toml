@@ -30,7 +30,7 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     math = true
-    custom_css = ["assets/sass/aim.scss"]
+    custom_css = ["css/custom.css"]
 
     colorscheme = "light"
 
