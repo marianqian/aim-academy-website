@@ -81,4 +81,4 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Sponsors"
     weight = 5
-    url = "sponsors"
+    url = "sponsors.html"
